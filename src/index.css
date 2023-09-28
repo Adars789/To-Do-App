@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:lightgrey;
+  color: black;
+  text-decoration: cornsilk;
+  
+  text-align: center;
+  border: 25px;
+  border-radius: 15px solid;
+  padding-top: 50px;
+  margin: 15px;
+  font-weight: bold;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.button{
+  background-color:lightgreen;
+  color: black;
+  border: 2px solid black;
+  border-radius: 3px;
+  font-weight: bold;
+
+}
+.reset-button{
+  background-color: lightgreen;
+  color: black;
+  border: 2PX solid black;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.todo-input{
+  color: azure;
+}
+.order{
+  color: ghostwhite;
+}
+
+.todo{
+  border: 2px solid black;
+  border-radius: 3px;
+}
+.todo-list{
+  margin: 5px;
+  padding: 5px;
+}
